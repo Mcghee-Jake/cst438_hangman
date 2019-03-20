@@ -1,0 +1,15 @@
+<h1>Hangman</h1>
+<%= image_tag "h1.gif" %>
+
+<p id="1">
+<%= @message %>
+</p>
+
+<p id="2">
+<%= @game.display %>
+</p>
+
+<form action="<%=@game.id%>" method="get">
+    <input type="text" name="guess"><br>
+    <input type="submit" value="Submit">
+</form>

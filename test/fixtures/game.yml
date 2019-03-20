@@ -1,0 +1,16 @@
+one:
+    word: computer
+    letters_revealed:  cpue
+    remaining_guesses: 3 
+    
+two:
+    word: disaster
+    letters_revealed: "" 
+    remaining_guesses: 1
+    
+    
+    
+    
+    
+    
+    
