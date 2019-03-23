@@ -10,8 +10,9 @@ for the course CST438 Software Engineering
 Spring 2019
 
 The application uses two database tables
- to keep track of current games 
- to keep a list of words for the game
+
+- track progress of current games 
+- list of words to choose from for a new game
 
 to run the application 
 
