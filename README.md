@@ -2,7 +2,7 @@
 
 a sample ruby on rails program written by 
 
-David Wisneski at California State University Monterey Bay 
+David Wisneski at California State University at Monterey Bay 
 dwisneski@csumb.edu
 
 for the course CST438 Software Engineering 
